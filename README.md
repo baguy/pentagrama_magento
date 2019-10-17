@@ -8,7 +8,9 @@ http://127.0.0.1/pentagrama_magento/magento/index.php/
 
 Backend
 http://127.0.0.1/pentagrama_magento/magento/admin
+
 Usuário: pentagrama_magento
+
 Senha: pentagrama_magento_senha2019
 
 Roteiro
