@@ -1,5 +1,5 @@
 # pentagrama_magento
-Teste de instalação de módulos no Magento 1.9
+Teste de instalação de módulos e configuração no Magento 1.9
 
 Feito em PHP: 5.5.15
 
