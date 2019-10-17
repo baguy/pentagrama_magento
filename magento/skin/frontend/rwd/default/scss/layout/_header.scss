@@ -204,6 +204,17 @@ a.skip-link {
     opacity: 0.8;
 }
 
+.extra-link {
+    position: relative;
+    float: left;
+    width: 20%;
+    height: 44px;
+    background: #FFFFFF;
+    color: $c-text;
+    line-height: 42px;
+    text-align: center;
+}
+
 // ---------------------------------------------
 
 @include bp(max-width, $bp-medium) {
