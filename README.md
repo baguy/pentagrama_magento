@@ -3,6 +3,14 @@ Teste de instalação de módulos no Magento 1.9
 
 Feito em PHP: 5.5.15
 
+Frontend
+http://127.0.0.1/pentagrama_magento/magento/index.php/
+
+Backend
+http://127.0.0.1/pentagrama_magento/magento/admin
+Usuário: pentagrama_magento
+Senha: pentagrama_magento_senha2019
+
 Roteiro
 
 ## Desenvolvimento / Configuração Backend
