@@ -13,7 +13,7 @@ Usuário: pentagrama_magento
 
 Senha: pentagrama_magento_senha2019
 
-Roteiro
+### Roteiro
 
 ## Desenvolvimento / Configuração Backend
 - Configurar para que vendas não possam ser realizadas por convidados (Allow Guest Checkout)
